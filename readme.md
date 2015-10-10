@@ -8,3 +8,4 @@ the basic set up.
 
 After cloning this repo run `npm install` to install all Node dependencies.
 
+documentation for keystone.js can be found <a href="http://keystonejs.com/docs/getting-started/">here</a>.
